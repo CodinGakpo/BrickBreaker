@@ -20,7 +20,7 @@ import java.util.Random;
 public class GameView extends View {
     long currentTime = System.currentTimeMillis();
     private static final int INITIAL_VELOCITY_X = 15;
-    private static final int INITIAL_VELOCITY_Y = 32;
+    private static final int INITIAL_VELOCITY_Y = 28;
     private static final int TEXT_SIZE = 120;
     private static final int BRICK_ROWS = 10;    //4
     private static final int BRICK_COLUMNS = 10; //6
